@@ -1,12 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: 10-403 Staff
-name: 10-403 Deep RL
+author: 10-703 Staff
+name: 10-703 Deep RL
 title: Deep Reinforcement Learning
 email: ta-deeprl@lists.andrew.cmu.edu
 description: >
-  10-403 - Deep Reinforcement Learning and Control - Carnegie Mellon University - Spring 2020
+  10-703 - Deep Reinforcement Learning and Control - Carnegie Mellon University - Fall 2020
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
