@@ -472,7 +472,7 @@
     - <a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank">Tutorial - Representation Learning on Networks</a>
     # - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
-  logistics: <span class="deadline">
+  logistics:
     
 
 
@@ -505,7 +505,7 @@
     - <reading class="important">Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a></reading>
     # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
     - Pathak et al. <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-  logistics: HW4 due 11/25 11:59pm</span> <br>
+  logistics: <span class="deadline">HW4 due 11/25 11:59pm</span> <br>
     <span class="event">HW5 out 11/25</span>
 
 
