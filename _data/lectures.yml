@@ -15,7 +15,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in multi-armed bandits</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture2_bandits.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture2_bandits.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_10_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8062af26-5900-432c-9d01-aab500f554e0
   notes:
@@ -374,7 +374,7 @@
     
 
 
-- date: F 11/04
+- date: F 11/06
   lecturer:
   title: >
     <strong>Natural Policy Gradients</strong>
@@ -385,8 +385,8 @@
     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
     - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-  logistics: <span class="deadline">HW3 due 04/05 11:59pm</span> <br>
-    <span class="event">HW4 out</span>
+  logistics: <span class="deadline">HW3 due 11/07 11:59pm</span> <br>
+    <span class="event">HW4 out 11/07</span>
 
 
 
@@ -472,8 +472,7 @@
     - <a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank">Tutorial - Representation Learning on Networks</a>
     # - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
-  logistics: <span class="deadline">HW4 due 11/25 11:59pm</span> <br>
-    <span class="event">HW5 out 11/25</span>
+  logistics: <span class="deadline">
     
 
 
@@ -506,7 +505,8 @@
     - <reading class="important">Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a></reading>
     # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
     - Pathak et al. <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-  logistics: 
+  logistics: HW4 due 11/25 11:59pm</span> <br>
+    <span class="event">HW5 out 11/25</span>
 
 
 - date: W 11/25
@@ -663,7 +663,7 @@
     - <reading class="important">Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a></reading>
     - <reading class="important">Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a></reading>
   logistics:
-    <span class="deadline">HW5 due 05/01 11:59PM</span>
+    <span class="deadline">HW5 due 12/11 11:59PM</span>
 
 
 - date: TBD
