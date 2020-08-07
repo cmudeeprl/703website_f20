@@ -278,7 +278,7 @@
   lecturer:
   title: >
     <strong>Policy gradients</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture11.pdf
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture11.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
   notes:
   readings:
@@ -461,8 +461,8 @@
   lecturer: 
   title: >
     <strong>Model Learning and Model-based RL in high dimensional sensory space</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
   notes:
   readings:
     - <reading class="important">Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a></reading>
@@ -534,8 +534,8 @@
   lecturer:
   title: >
     <strong>Exploration guided by Curiosity and External Memory (contd.)</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture22.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=697ded96-c212-4527-849d-aba700aef50a
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture22.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=697ded96-c212-4527-849d-aba700aef50a
   notes:
   readings:
     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore:a New Approach for Hard-Exploration Problems</a> 
@@ -547,51 +547,52 @@
   logistics: 
 
 
+# - date: W 12/02
+#   lecturer:
+#   title: >
+#     <strong>The Dance of Data and Doers: A Trajectory-Oriented Perspective on RL (Guest Lecture by Ben Eysenbach)</strong>
+#   slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture23_1.pdf
+#   slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture23_2.pdf
+#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9812db-13ad-413f-8c1a-aba8015d49a5
+#   notes:
+#   readings:
+#     - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a>
+#   logistics: 
+
 - date: W 12/02
   lecturer:
   title: >
-    <strong>The Dance of Data and Doers: A Trajectory-Oriented Perspective on RL (Guest Lecture by Ben Eysenbach)</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture23_1.pdf
-  slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture23_2.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9812db-13ad-413f-8c1a-aba8015d49a5
+    <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
+  slides:
+  slides2: 
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes:
   readings:
-    - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a>
+    - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
+    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+    - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics: 
 
-# - date: Th 04/23
-#   lecturer:
-#   title: >
-#     <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
-#   slides:
-#   slides2: 
-#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
-#   notes:
-#   readings:
-#     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
-#     - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
-#     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
-  # logistics: 
 
 - date: F 12/04
   lecturer:
   title: >
     <strong>Learning and Planning: Temporal abstraction in model based control</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
   notes:
   readings:
     - <reading class="important">Agarwal et al. <a href="https://www.cs.cmu.edu/~katef/papers/modellookahead.pdf" target="_blank">Model Learning for Look-ahead Exploration in Continuous Control </a></reading>
     - Co-Reyes et al. <a href="https://arxiv.org/pdf/1806.02813.pdf" target="_blank"> Self-Consistent Trajectory Autoencoder - Hierarchical Reinforcement Learning with Trajectory Embeddings</a>
   logistics:
 
-# ----------------------------- CONDUCTED --------------------------------------------------
+
 - date: M 12/07
   lecturer:
   title: >
     <strong>Sim2Real transfer</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
   notes: 
   readings:
     # - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
@@ -627,8 +628,8 @@
   lecturer:
   title: >
     <strong>Learning from RL and demonstrations, batch RL</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture26.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e306c64a-db91-459f-a423-abaf0131e87e
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture26.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e306c64a-db91-459f-a423-abaf0131e87e
   notes:
   readings:
     - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
@@ -656,8 +657,8 @@
   lecturer:
   title: >
     <strong>Learning from visual demonstations (visual imitation)</strong>
-  slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture27.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture27.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
   notes:
   readings:
     - <reading class="important">Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a></reading>
