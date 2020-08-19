@@ -205,9 +205,8 @@
 - date: F 10/02
   lectuerer:
   title: >
-    <strong> REC: </strong>
-  logistics: <span class="deadline">HW1 due 10/05 11:59pm</span>
-     <span class="event">HW2 out</span> <br>
+    <strong> Quiz 1 (online)</strong>
+  logistics: 
 
 
 - date: M 10/05
@@ -218,7 +217,8 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=649f64d2-1f6e-4bff-ae65-ab61013355d1
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics: 
+  logistics: <span class="deadline">HW1 due 10/05 11:59pm</span>
+     <span class="event">HW2 out</span> <br>
 
 
 - date: W 10/07
@@ -377,7 +377,7 @@
 - date: W 11/04
   lecturer:
   title: >
-    <strong>Quiz 1 (online)</strong>
+    <strong>Quiz 2 (online)</strong>
   logistics: 
 
 
@@ -591,7 +591,7 @@
 - date: TBD
   lecturer:
   title: >
-    <strong>Quiz 2 (online)</strong>
+    <strong>Quiz 3 (online)</strong>
   notes:
   readings:
   logistics:
