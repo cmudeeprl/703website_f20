@@ -10,7 +10,7 @@ EducationAssociates:
       email: bedmunds@andrew.cmu.edu
       url: 
       office-hours: 
-      image: staff/bedumnds.jpg
+      image: staff/bedmunds.jpg
 
 TAs:
     - name: Benjamin Eyesenbach
@@ -53,7 +53,7 @@ TAs:
       email: tianwein@andrew.cmu.edu
       url: http://tianwe.in/
       office-hours: 
-      image: staff/tianwein.jpg
+      image: staff/tianwein.png
 
     - name: Alvin Pan
       email: qpan@andrew.cmu.edu
