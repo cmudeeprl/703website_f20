@@ -29,7 +29,8 @@ If you want additional resources which contain parts of the course material, we 
 
 #### Recitations
 
-Recitations are usually given by TAs and their goal is to cover background material needed to understand the course, as well as to provide help for homeworks. You can control the material of the recitations every week by posting on Piazza the topics you wish to be discussed on friday's recitation. Take advantage of this privilege to better tailor the course to your needs. Since neither lectures nor recitations are recorded this semester, your physical presence is necessary for both, for you to optimize your learning experience.
+Recitations are usually given by TAs and their goal is to cover background material needed to understand the course, as well as to provide help for homeworks. You can control the material of the recitations every week by posting on Piazza the topics you wish to be discussed on friday's recitation. Take advantage of this privilege to better tailor the course to your needs. 
+<!-- Since neither lectures nor recitations are recorded this semester, your physical presence is necessary for both, for you to optimize your learning experience. -->
 
 ***
 
