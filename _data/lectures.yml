@@ -51,17 +51,17 @@
 - date: W 09/09
   lecturer:
   title: >
-    <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture2_bandits_updated.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture3.pdf
+    <strong>Evolutionary methods for policy search</strong>
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture3_evolutionarymethods_F20.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8 
-    - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1,2
-    - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
-  logistics:
+    - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>
+    - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - Optional&#58; Zhang et al. <a href="https://arxiv.org/abs/1712.06564" target="_blank">On the Relationship Between the OpenAI Evolution Strategy and Stochastic Gradient Descent</a>
+  logistics:  <span class="event">HW1 out</span> <br>
 
+  
 
 - date: F 09/11
   lecturer:
@@ -94,15 +94,16 @@
 - date: M 09/14
   lecturer:
   title: >
-    <strong>Evolutionary methods for policy search</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture4.pdf
+    <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture2_bandits_updated.pdf
+  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
-    - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>
-    - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
-    # - Optional&#58; Zhang et al. <a href="https://arxiv.org/abs/1712.06564" target="_blank">On the Relationship Between the OpenAI Evolution Strategy and Stochastic Gradient Descent</a>
-  logistics:  <span class="event">HW1 out</span> <br>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8 
+    - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1,2
+    - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
+  logistics:
 
 
 - date: W 09/16
