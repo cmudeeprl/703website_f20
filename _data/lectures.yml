@@ -188,7 +188,9 @@
     - <a href="https://www.deeplearningbook.org/" target="blank"> Goodfellow, Bengio and Courville</a> Ch20
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
     - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
+  logistics: <span class="deadline">HW1 due 10/05 11:59pm</span>
+     <span class="event">HW2 out</span> <br>
+
 
 
 - date: W 09/30
@@ -219,9 +221,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=649f64d2-1f6e-4bff-ae65-ab61013355d1
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics: <span class="deadline">HW1 due 10/05 11:59pm</span>
-     <span class="event">HW2 out</span> <br>
-
+  logistics: 
 
 - date: W 10/07
   lecturer:
@@ -278,7 +278,8 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
     - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-  logistics: 
+  logistics: <span class="deadline">HW2 due</span>
+     <span class="event">HW3 out</span> <br> 
 
 
 - date: F 10/16
@@ -312,8 +313,7 @@
     - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-  logistics: <span class="deadline">HW2 due</span>
-     <span class="event">HW3 out</span> <br>
+  logistics:
 
 
 - date: F 10/23
@@ -360,7 +360,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a78e3cfb-9e14-4cdb-a074-ab6f012e7df1
   notes:
   readings:
-  logistics: 
+  logistics: <span class="deadline">HW3 due 11/07 11:59PM</span>
 
 
 - date: M 11/02
@@ -397,7 +397,7 @@
     - Ding et al. <a href="https://arxiv.org/abs/2002.11089" target="_blank">Rewriting History with Inverse RL- Hindsight Inference for Policy Improvement</a>
     - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
     - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
-  logistics: <span class="deadline">HW3 due 11/07 11:59PM</span>
+  logistics: 
      <span class="event">HW4 out 11/07</span> <br>
 
 
