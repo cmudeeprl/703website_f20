@@ -188,7 +188,7 @@
     - <a href="https://www.deeplearningbook.org/" target="blank"> Goodfellow, Bengio and Courville</a> Ch20
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
     - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics: <span class="deadline">HW1 due 10/05 11:59pm</span>
+  logistics: <span class="deadline">HW1 due 09/28 11:59pm</span>
      <span class="event">HW2 out</span> <br>
 
 
@@ -278,7 +278,7 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
     - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-  logistics: <span class="deadline">HW2 due</span>
+  logistics: <span class="deadline">HW2 due 10/14 11:59pm</span>
      <span class="event">HW3 out</span> <br> 
 
 
@@ -360,7 +360,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a78e3cfb-9e14-4cdb-a074-ab6f012e7df1
   notes:
   readings:
-  logistics: <span class="deadline">HW3 due 11/07 11:59PM</span>
+  logistics: <span class="deadline">HW3 due 10/30 11:59PM</span>
 
 
 - date: M 11/02
@@ -492,7 +492,7 @@
   readings:
     - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning - Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
     - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
-  logistics: <span class="deadline">HW4 due 11/25 11:59pm</span> <br>
+  logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
     <span class="event">HW5 out 11/25</span>
 
 
