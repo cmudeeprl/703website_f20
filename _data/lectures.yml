@@ -53,7 +53,7 @@
   title: >
     <strong>Evolutionary methods for policy search</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture3_evolutionarymethods_F20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c421ffb-b408-4f07-b601-ac3101226b08
   notes:
   readings:
     - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>
@@ -69,7 +69,7 @@
     <strong>REC: Gaussian Processes</strong>
   slides: https://cmudeeprl.github.io/703website/assets/recitations/s20_lecture3.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec2_openai.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58208de1-3996-4957-bf47-ab4c012fc2c5
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f96166f-3c34-44d9-bb96-ac330113c597
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
