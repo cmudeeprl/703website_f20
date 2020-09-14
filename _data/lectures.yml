@@ -95,7 +95,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture2_bandits_updated.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture4_GPExperimentDesignF20.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
