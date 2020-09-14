@@ -28,8 +28,9 @@
 
 - date: F 09/04
   lecturer:
-  title: >
-    <strong>REC: CNNs, RNNs, Tensorflow</strong>
+  title: 
+  recitation: >
+    <strong>CNNs, RNNs, Tensorflow</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec1.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4de5da10-964f-4079-9197-ab45012fb789
@@ -60,7 +61,7 @@
     - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating search spaces by mapping elites</a>
     - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
-    - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
+    - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
     # - Optional&#58; Zhang et al. <a href="https://arxiv.org/abs/1712.06564" target="_blank">On the Relationship Between the OpenAI Evolution Strategy and Stochastic Gradient Descent</a>
   logistics:  
 
@@ -68,8 +69,9 @@
 
 - date: F 09/11
   lecturer:
-  title: >
-    <strong>REC: Gaussian Processes</strong>
+  title:
+  recitation: >
+    <strong>Gaussian Processes</strong>
   slides: https://cmudeeprl.github.io/703website/assets/recitations/s20_lecture3.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec2_openai.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f96166f-3c34-44d9-bb96-ac330113c597
@@ -129,8 +131,9 @@
 
 - date: F 09/18
   lecturer:
-  title: >
-    <strong>REC: HW1</strong>
+  title:
+  recitation: >
+    <strong>HW1</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_2_1.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00204c87-df18-4287-bf88-ab53012f6105
   notes:
@@ -167,8 +170,9 @@
 
 - date: F 09/25
   lecturer:
-  title: >
-    <strong>REC: </strong>
+  title:
+  recitation: >
+    <strong>REC</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture4.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bacac087-0681-45d9-89e6-ab5a0131a65a
   notes:
@@ -238,8 +242,9 @@
 
 - date: F 10/09
   lecturer:
-  title: >
-    <strong>REC: Policy and Value Iterations</strong>
+  title:
+  recitation: >
+    <strong>Policy and Value Iterations</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_pi_vi.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/recitation_4_2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4e3b44c-f558-4352-bf50-ab6801313213
@@ -357,8 +362,9 @@
 
 - date: F 10/30
   lecturer:
-  title: >
-    <strong>REC: </strong>
+  title:
+  recitation: >
+    <strong>REC </strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_imitation_learning.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a78e3cfb-9e14-4cdb-a074-ab6f012e7df1
   notes:
@@ -438,8 +444,9 @@
 
 - date: F 11/13
   lecturer: 
-  title: >
-    <strong>REC: Graph Neurasl Nets, model learning</strong>
+  title:
+  recitation: >
+    <strong>Graph Neurasl Nets, model learning</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
@@ -476,8 +483,9 @@
 
 - date: F 11/20
   lecturer: 
-  title: >
-    <strong>REC: </strong>
+  title:
+  recitation: >
+    <strong>REC </strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
@@ -544,8 +552,9 @@
 
 - date: F 12/04
   lecturer: 
-  title: >
-    <strong>REC: </strong>
+  title:
+  recitation: >
+    <strong>REC </strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
@@ -583,8 +592,9 @@
 
 - date: F 12/11
   lecturer: 
-  title: >
-    <strong>REC: </strong>
+  title:
+  recitation: >
+    <strong>REC </strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:

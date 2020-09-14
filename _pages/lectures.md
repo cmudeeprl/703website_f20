@@ -7,6 +7,7 @@ title: Schedule
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
+{% assign recitation_count = 0 %}
 
 {% for item in site.data.lectures %}
 {% if item.date %}
@@ -23,16 +24,27 @@ title: Schedule
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
+    {% if lecture.recitation != blank %} 
+    {% assign recitation_count = recitation_count | plus: 1 %}
+    {%endif%}
     {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Quiz' or forloop.last %}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}
-        {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
-        <br />
-        {{ lecture.title }}
-        <br />
+        {% if lecture.title %}
+            Lecture #{{ forloop.index | minus: current_module | minus: skip_classes | minus: recitation_count}}
+            {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
+        {% endif %}
+        {% if lecture.title %}
+            <br />{{ lecture.title }}<br />
+        {% endif %}
+        {% if lecture.recitation %}
+            Recitation #{{ recitation_count }}:
+        {% endif %}
+        {% if lecture.recitation %}
+            <br />{{ lecture.recitation }}<br />
+        {% endif %}
         [
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
