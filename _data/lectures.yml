@@ -116,7 +116,7 @@
   title: >
     <strong>Imitation learning with behavior cloning</strong>  
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture5_immitationlearning_F20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00204c87-df18-4287-bf88-ab53012f6105
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c01de5-6241-4e56-a205-ac38011ec8d8
   notes:
   readings:
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
