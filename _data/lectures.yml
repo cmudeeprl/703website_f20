@@ -36,7 +36,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4de5da10-964f-4079-9197-ab45012fb789
   notes:
   readings:
-    - <a href="https://www.deeplearningbook.org/" target="_blank">Goodfellow, Bengio, and Courville</a>, Ch9, Ch10
+    - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
     - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1IzxXcE__3iUtpS4yOg1lKR2ppNDZ5ix7?usp=sharing" target=  "_blank">notebook</a>
     - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1Lt4JcWknxSZjtP18sXyUPExq0CHr-_UB#scrollTo=OR2z_eGUxQr1" target=  "_blank">notebook</a>
     # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
@@ -122,6 +122,8 @@
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+    - Florence et al. <a href="https://arxiv.org/abs/1806.08756" target="_blank">Dense Object Nets<span>:</span> Learning Dense Visual Object Descriptors By and For Robotic Manipulation</a>
     # - Mouret and Clune <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating search spaces by mapping elites</a>
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)&#58; Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
@@ -155,7 +157,7 @@
     - Lynch et al. <a href="https://arxiv.org/pdf/1903.01973.pdf" target="_blank">Learning latent plans from play</a>
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
     - Background Material - 
-    - <a href="https://www.deeplearningbook.org/" target="blank"> Goodfellow, Bengio and Courville</a> Ch20
+    - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
     - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
@@ -198,7 +200,7 @@
     - Lynch et al. <a href="https://arxiv.org/pdf/1903.01973.pdf" target="_blank">Learning latent plans from play</a>
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
     - Background Material - 
-    - <a href="https://www.deeplearningbook.org/" target="blank"> Goodfellow, Bengio and Courville</a> Ch20
+    - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
     - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics: <span class="deadline">HW1 due 09/28 11:59pm</span>
