@@ -166,13 +166,13 @@
 - date: W 09/23
   lecturer:
   title: >
-    <strong>Self-supervised visual feature learning for policy learning</strong>
+    <strong>What if states are few, we know which state we are in, and the world model is known? Dynamic programming for policy search</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
   notes:
   readings:
-    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
-    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank"> Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
   logistics:
 
 
@@ -211,13 +211,9 @@
 - date: W 09/30
   lecturer:
   title: >
-    <strong>What if states are few, we know which state we are in, and the world model is known? Dynamic programming for policy search</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
+    <strong>Buffer</strong>
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
-    - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
   logistics:
 
 
