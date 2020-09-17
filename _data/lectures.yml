@@ -192,19 +192,12 @@
 - date: M 09/28
   lecturer:
   title: >
-    <strong>Handling Multimodality in Imitation Learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
-  notes:
+    <strong>What if states are few and we know which state we are in? Monte Carlo and Temporal Difference learning</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture6.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=649f64d2-1f6e-4bff-ae65-ab61013355d1
   readings:
-    - Ho et al. <a href="https://cs.stanford.edu/~ermon/papers/imitation_nips2016_main.pdf" target="_blank">Generative Adversarial Imitation Learning</a>
-    - Lynch et al. <a href="https://arxiv.org/pdf/1903.01973.pdf" target="_blank">Learning latent plans from play</a>
-    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
-    - Background Material - 
-    - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20
-    - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
-    - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics: <span class="deadline">HW1 due 09/28 11:59pm</span>
-     <span class="event">HW2 out</span> <br>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+  logistics: 
 
 
 
@@ -227,11 +220,8 @@
 - date: M 10/05
   lecturer:
   title: >
-    <strong>What if states are few and we know which state we are in? Monte Carlo and Temporal Difference learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture6.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=649f64d2-1f6e-4bff-ae65-ab61013355d1
+    <strong>Buffer</strong>
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
   logistics: 
 
 - date: W 10/07
