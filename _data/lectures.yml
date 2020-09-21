@@ -149,8 +149,8 @@
   lecturer:
   title: >
     <strong>Generative adversarial / goal-conditioned imitation learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5801274-b661-4677-adb9-aab500f4ccf5
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture6_GAILGCILF20.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=327788dc-ccb8-4a23-b7f2-ac3d011da09f
   notes:
   readings:
     - Ho et al. <a href="https://cs.stanford.edu/~ermon/papers/imitation_nips2016_main.pdf" target="_blank">Generative Adversarial Imitation Learning</a>
