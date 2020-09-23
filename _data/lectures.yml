@@ -166,7 +166,7 @@
   title: >
     <strong>What if states are few, we know which state we are in, and the world model is known? Dynamic programming for policy search</strong>
   slides: https://docs.google.com/presentation/d/1gTv2FFHtQvY0fGeKEIM6DPEpX20ZBLpxKGacOUNvmdQ/edit?usp=sharing
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a67d8ee-d6f0-4f03-b248-ac3f011e0ee3
   notes:
   readings:
     - <span style="color:green"><a style="color:green" href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4</span>
