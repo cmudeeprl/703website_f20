@@ -220,8 +220,19 @@
 - date: M 10/05
   lecturer:
   title: >
-    <strong>Buffer</strong>
+    <strong> What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture10.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
+  notes:
   readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 7 (7.1-7.3), Ch 9 (9.1-9.3), Ch 10 (10.1-10.2)
+    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+    - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank"> Deep Q-learning from Demonstrations</a>
+    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics: 
 
 - date: W 10/07
@@ -250,19 +261,11 @@
 - date: M 10/12
   lecturer:
   title: >
-    <strong> What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
+    <strong> Buffer</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture10.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 7 (7.1-7.3), Ch 9 (9.1-9.3), Ch 10 (10.1-10.2)
-    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-    - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
-    - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank"> Deep Q-learning from Demonstrations</a>
-    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics: 
 
 
