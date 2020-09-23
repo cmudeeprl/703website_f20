@@ -154,12 +154,10 @@
   notes:
   readings:
     - Ho et al. <a href="https://cs.stanford.edu/~ermon/papers/imitation_nips2016_main.pdf" target="_blank">Generative Adversarial Imitation Learning</a>
-    - Lynch et al. <a href="https://arxiv.org/pdf/1903.01973.pdf" target="_blank">Learning latent plans from play</a>
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
     - Background Material - 
     - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
-    - Doersch et al. <a href="https://arxiv.org/pdf/1606.05908.pdf" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
 
