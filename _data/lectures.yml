@@ -21,7 +21,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=016eddb6-c401-43c8-86a2-ac2c00fb1467
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1 - 2.7
+    - <span style="color:green"><a style="color:green" href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1 - 2.7</span>
     - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>
   logistics:
 
@@ -58,9 +58,9 @@
   notes:
   readings:
     - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>
-    - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    - <span style="color:green">Salimans et al. <a style="color:green" href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a></span>
     - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating search spaces by mapping elites</a>
-    - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    - <span style="color:green">Cully et al. <a style="color:green" href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a></span>
     - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
     # - Optional&#58; Zhang et al. <a href="https://arxiv.org/abs/1712.06564" target="_blank">On the Relationship Between the OpenAI Evolution Strategy and Stochastic Gradient Descent</a>
   logistics:  
@@ -122,8 +122,8 @@
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
-    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-    - Florence et al. <a href="https://arxiv.org/abs/1806.08756" target="_blank">Dense Object Nets<span>:</span> Learning Dense Visual Object Descriptors By and For Robotic Manipulation</a>
+    - <span style="color:green">Florence et al. <a style="color:green" href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a></span>
+    - <span style="color:green">Florence et al. <a style="color:green" href="https://arxiv.org/abs/1806.08756" target="_blank">Dense Object Nets<span>:</span> Learning Dense Visual Object Descriptors By and For Robotic Manipulation</a></span>
     # - Mouret and Clune <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating search spaces by mapping elites</a>
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)&#58; Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
@@ -171,7 +171,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    - <span style="color:green"><a style="color:green" href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4</span>
     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
   logistics:
 
