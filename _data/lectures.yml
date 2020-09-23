@@ -167,7 +167,7 @@
   lecturer:
   title: >
     <strong>What if states are few, we know which state we are in, and the world model is known? Dynamic programming for policy search</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture5.pdf
+  slides: https://docs.google.com/presentation/d/1gTv2FFHtQvY0fGeKEIM6DPEpX20ZBLpxKGacOUNvmdQ/edit?usp=sharing
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
   notes:
   readings:
