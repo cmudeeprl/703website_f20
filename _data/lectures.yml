@@ -196,7 +196,7 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
   logistics: <span class="deadline">HW1 due 09/28 11:59pm</span>
-    <span class="event">HW2 out</span> <br> 
+    
 
 
 
@@ -213,8 +213,8 @@
 - date: F 10/02
   lectuerer:
   title: >
-    <strong> Quiz 1 (online)</strong>
-  logistics: 
+    <strong> Quiz 1 (online)</strong>  
+  logistics: <span class="event">HW2 out</span>
 
 
 - date: M 10/05

@@ -29,7 +29,8 @@ title: Schedule
     {%endif%}
     {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Quiz' or forloop.last %}
     {% assign skip_classes = skip_classes | plus: 1 %}
-    <td colspan="4" align="center">{{ lecture.title }}</td>
+    <td colspan="4" align="center">{{ lecture.title }}<p align="right">{{ lecture.logistics }}</p></td>
+        
     {% else %}
     <td>
         {% if lecture.title %}
