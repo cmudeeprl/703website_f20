@@ -190,8 +190,8 @@
 - date: M 09/28
   lecturer:
   title: >
-    <strong>What if states are few and we know which state we are in? Monte Carlo and Temporal Difference learning</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture8_MCTD_F20.pdf
+    <strong>Dynamic Programming, Policy Iteration, Value Iteration</strong>
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture8_DP_F20.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3852b536-4c5e-4742-95b0-ac44011e5f25
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -203,8 +203,8 @@
 - date: W 09/30
   lecturer:
   title: >
-    <strong>What if we know which state we are in, states are many, and the world model is known? Planning with Monte Carlo tree search</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture6.pdf
+    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>lecture9_MCTD_F20.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture9_MCTD_F20.pdf
   readings:
     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
   logistics:
