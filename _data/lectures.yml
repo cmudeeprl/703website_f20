@@ -203,8 +203,9 @@
 - date: W 09/30
   lecturer:
   title: >
-    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>lecture9_MCTD_F20.pdf
+    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture9_MCTD_F20.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3993077e-6da6-42a5-af7c-ac46011dbdc5
   readings:
     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
   logistics:
