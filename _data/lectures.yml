@@ -223,7 +223,7 @@
   title: >
     <strong> What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture10_FA_F20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbcc74fc-a277-441f-9eef-ac4b011d74b3
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 7 (7.1-7.3), Ch 9 (9.1-9.3), Ch 10 (10.1-10.2)
