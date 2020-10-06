@@ -213,7 +213,7 @@
 
 - date: F 10/02
   lectuerer:
-  title: >
+  quiz: >
     <strong> Quiz 1 (online)</strong>  
   logistics: <span class="event">HW2 out</span>
 
@@ -239,7 +239,7 @@
 - date: W 10/07
   lecturer:
   title: >
-    <strong>Quiz Review</strong>
+    <strong>Quiz 1 Recap</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture6.pdf
   readings:
   logistics: 
@@ -384,7 +384,7 @@
 
 - date: W 11/04
   lecturer:
-  title: >
+  quiz: >
     <strong>Quiz 2 (online)</strong>
   logistics: 
 
@@ -602,7 +602,7 @@
 
 - date: TBD
   lecturer:
-  title: >
+  quiz: >
     <strong>Quiz 3 (online)</strong>
   notes:
   readings:
