@@ -194,7 +194,8 @@
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture8_DP_F20.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3852b536-4c5e-4742-95b0-ac44011e5f25
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - <span style="color:green"><a style="color:green" href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4</span>
+    - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
   logistics: <span class="deadline">HW1 due 09/28 11:59pm</span>
     
 
@@ -207,7 +208,7 @@
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture9_MCTD_F20.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3993077e-6da6-42a5-af7c-ac46011dbdc5
   readings:
-    - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
   logistics:
 
 
@@ -226,14 +227,13 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbcc74fc-a277-441f-9eef-ac4b011d74b3
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 7 (7.1-7.3), Ch 9 (9.1-9.3), Ch 10 (10.1-10.2)
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 6, Ch 7.1-7.3
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
     - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
     - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank"> Deep Q-learning from Demonstrations</a>
-    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank"> Deep Q-learning from Demonstrations</a>
+    # - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics: 
 
 - date: W 10/07
@@ -242,6 +242,8 @@
     <strong>Quiz 1 Recap</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture11_MCTS_F20.pdf
   readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
   logistics: 
 
 
