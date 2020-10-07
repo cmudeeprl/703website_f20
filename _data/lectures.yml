@@ -239,7 +239,7 @@
 - date: W 10/07
   lecturer:
   title: >
-    <strong>Quiz 1 Recap and Monte Carlo tree search</strong>
+    <strong>Monte Carlo Tree search / Quiz 1 recap</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture11_MCTS_F20.pdf
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
