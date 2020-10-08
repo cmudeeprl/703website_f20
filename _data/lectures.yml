@@ -286,14 +286,14 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
     - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-  logistics: <span class="deadline">HW2 due 10/14 11:59pm</span>
-     <span class="event">HW3 out</span> <br> 
+  logistics: <span class="event">HW3 out</span> <br> 
 
 
 - date: F 10/16
   lecturer:
   title: >
     <strong> Community Engagement Day - No classes </strong>
+  logistics: <span class="deadline">HW2 due 10/14 11:59pm</span>
 
 
 - date: M 10/19
