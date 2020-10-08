@@ -241,6 +241,7 @@
   title: >
     <strong>Monte Carlo Tree search / Quiz 1 recap</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture11_MCTS_F20.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=441588a9-b6a7-4ca5-b8bc-ac4d0135d5f3
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
