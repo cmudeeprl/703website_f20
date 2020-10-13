@@ -265,7 +265,7 @@
 - date: M 10/12
   lecturer:
   title: >
-    <strong>Monte Carlo Tree search / Quiz 1 recap</strong>
+    <strong>Monte Carlo Tree search</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture11_MCTS_F20.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4125c8ea-ca7a-43fb-ae13-ac5201218e69
   notes:
