@@ -280,7 +280,7 @@
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture13_PG_F20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131de8e3-a760-4ff1-9802-aad80108eaa7
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e7ae15d-da66-45b6-90ab-ac54012127f4
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
