@@ -298,14 +298,15 @@
 - date: M 10/19
   lecturer:
   title: >
-    <strong>Deterministic PG, Natural PG</strong>
+    <strong>Deterministic PG, Natural PG, off policy RL</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture13.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
   # video: https://scs.hoseprl.github.io/Spring202010403website/assets/lectures/s20_lecture13.pdf
   notes:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-    - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
   logistics:
     
 
