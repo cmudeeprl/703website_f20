@@ -314,13 +314,13 @@
 - date: W 10/21
   lecturer:
   title: >
-    <strong>MCTS with prior knowledge</strong>
+    <strong>Natural PG</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture26.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e306c64a-db91-459f-a423-abaf0131e87e
   notes:
   readings:
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
   logistics:
 
 
