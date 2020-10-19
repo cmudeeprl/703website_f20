@@ -348,15 +348,18 @@
 
 
 - date: W 10/28
-  lecturer:
+  lecturer: 
   title: >
-    <strong>Monte Carlo tree search with prior knowledge</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture17.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=188934c1-012e-4cdf-b17f-ab9500f1b308
+    <strong>Model Learning and Model-based RL in sensory space</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
   notes:
   readings:
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - Battaglia et al. <a href="https://arxiv.org/abs/1612.00222" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+    - Tung et al. <a href="" target="_blank">View invariant neural 3D environment simulators</a>
+    - Oord et al. <a href="https://arxiv.org/pdf/1807.03748.pdf" target="_blank">Representation Learning with Contrastive Predictive Coding</a>
   logistics:
 
 
