@@ -284,6 +284,7 @@
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
   logistics: <span class="event">HW3 out</span> <br> 
 
@@ -305,7 +306,6 @@
   notes:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
   logistics:
     
