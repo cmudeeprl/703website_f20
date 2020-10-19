@@ -299,7 +299,7 @@
 - date: M 10/19
   lecturer:
   title: >
-    <strong>Deterministic PG, Natural PG, off policy RL</strong>
+    <strong>Deterministic PG, off policy RL, MCTS with prior knowledge</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture13.pdf
   # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_12_2.pdf
   # video: https://scs.hoseprl.github.io/Spring202010403website/assets/lectures/s20_lecture13.pdf
@@ -307,6 +307,7 @@
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
   logistics:
     
 
