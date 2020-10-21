@@ -314,13 +314,13 @@
 - date: W 10/21
   lecturer:
   title: >
-    <strong>Natural PG, off policy RL</strong>
+    <strong>Natural PG</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture15_NaturalPolicyGradientsFinalF20F.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e306c64a-db91-459f-a423-abaf0131e87e
   notes:
   readings:
     - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
-    - <span style="color:green">Fujimoto et al. <a style="color:green" href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a></span>
+    # - <span style="color:green">Fujimoto et al. <a style="color:green" href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a></span>
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
   logistics:
 
