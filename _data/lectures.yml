@@ -385,23 +385,30 @@
     - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
     - Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
   logistics:
-  # lecturer:
-  # title: >
-  #   <strong>i-LQR, Divide and Conquer: imitating local controllers</strong>
-  # # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture27.pdf
-  # # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
-  # notes:
-  # readings:
-  #   - Levine et al. <a href="https://arxiv.org/pdf/1504.00702.pdf" target="_blank">End-to-End Training of Deep Visuomotor Policies</a>
-  #   - Ghosh  et al. <a href="https://arxiv.org/pdf/1711.09874.pdf" target="_blank">Divide and Conquer Reinforcement Learning</a>
-  # logistics:
 
 
 - date: W 11/04
-  lecturer:
-  quiz: >
-    <strong>Quiz 2 (online)</strong>
-  logistics: 
+  lecturer: 
+  title: >
+    <strong>Model-based RL (cont.)</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
+  notes:
+  readings:
+    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
+    - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
+    - Sikchi et al. <a href="https://arxiv.org/pdf/2008.10066.pdf" target="_blank">Learning Off-Policy with Online Planning</a>
+    - Buckman et al. <a href="https://arxiv.org/abs/1807.01675" target="_blank">Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion</a>
+    - Nagabandi et al. <a href="https://arxiv.org/abs/1909.11652" target="_blank">Deep Dynamics Models for Learning Dexterous Manipulation</a>
+    - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
+    -  Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+    -  Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
+    - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
+  logistics:
+  # lecturer:
+  # quiz: >
+  #   <strong>Quiz 2 (online)</strong>
+  # logistics: 
 
 
 - date: F 11/06
