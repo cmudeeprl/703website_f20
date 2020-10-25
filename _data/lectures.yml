@@ -421,15 +421,14 @@
 - date: M 11/09
   lecturer:
   title: >
-    <strong>A closer look to the visual policy input</strong>
+    <strong>Structured exploration via state mapping</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_19.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
   notes:
   readings:
-    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
-    - Florence et al. et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank"> Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-    - Tung et al. et al. <a href="" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
-    - Zambaldi et al. et al. <a href="https://arxiv.org/abs/1806.01830" target="_blank">Relational Deep Reinforcement Learning</a>
+    - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank">Search on the Replay Buffer- Bridging Planning and Reinforcement Learning</a>
+    - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
   logistics: 
 
 
