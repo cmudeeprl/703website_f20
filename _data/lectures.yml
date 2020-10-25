@@ -299,7 +299,7 @@
 - date: M 10/19
   lecturer:
   title: >
-    <strong>Deterministic PG, off policy RL, MCTS with prior knowledge</strong>
+    <strong>Actor-Critic methods (cont.), Deterministic PG, Re-parametrized PG </strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture14_PG_F20.pdf
   slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture14_PathwiseDDPG_F20.pdf
   # video: https://scs.hoseprl.github.io/Spring202010403website/assets/lectures/s20_lecture13.pdf
