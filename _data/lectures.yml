@@ -388,6 +388,13 @@
 
 
 - date: W 11/04
+  lecturer:
+  quiz: >
+    <strong>Quiz 2 (online)</strong>
+  logistics: 
+
+
+- date: F 11/06
   lecturer: 
   title: >
     <strong>Model-based RL (cont.)</strong>
@@ -405,17 +412,6 @@
     -  Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
     - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
   logistics:
-  # lecturer:
-  # quiz: >
-  #   <strong>Quiz 2 (online)</strong>
-  # logistics: 
-
-
-- date: F 11/06
-  lecturer:
-  quiz: >
-    <strong>Quiz 2 (online)</strong>
-  logistics: 
 
 
 - date: M 11/09
