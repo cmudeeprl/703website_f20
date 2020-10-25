@@ -435,11 +435,15 @@
 - date: W 11/11
   lecturer:
   title: >
-    <strong>Buffer</strong>
+    <strong>Curiosity driven exploration</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture18.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
   notes:
   readings:
+    - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
+    - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    - Sekar et al. <a href="https://arxiv.org/abs/2005.05960" target="_blank">Planning to Explore via Self-Supervised World Models</a>
   logistics:
 
 
