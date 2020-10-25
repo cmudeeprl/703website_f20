@@ -349,17 +349,14 @@
 - date: W 10/28
   lecturer:
   title: >
-    <strong>Model-based RL in low dimensional state space</strong>
+    <strong>SAC, TD3, soft q learning</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture18.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1, Ch2
-    - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
-    - <span style="color:green">Chua et al. <a style="color:green" href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a></span>
-    - <span style="color:green">Gonzalez et al. <a style="color:green" href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a></span>
-    - <span style="color:green">Gonzalez et al. <a style="color:green" href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a></span>
-    - <a href="http://snap.stanford.edu/proj/embeddings-www/" target="blank"> Tutorial - Representation Learning on Networks </a>
+    - <span style="color:green">Haarnoja et al. <a style="color:green" href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a></span>
+    - <span style="color:green">Haarnoja et al. <a style="color:green" href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a></span>
+    - <span style="color:green">Fujimoto et al. <a style="color:green" href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a></span>
   logistics:
 
 
