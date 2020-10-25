@@ -413,20 +413,9 @@
 
 - date: F 11/06
   lecturer:
-  title: >
-    <strong>Goal relabelling</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture15.pdf
-  # slides2: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_13_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55537534-8a91-4f96-9c7f-ab8e013c4a12
-  notes:
-  readings:
-    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-    - Ding et al. <a href="https://papers.nips.cc/paper/9667-goal-conditioned-imitation-learning" target="_blank">Goal-conditioned Imitation Learning</a>
-    - Ding et al. <a href="https://arxiv.org/abs/2002.11089" target="_blank">Rewriting History with Inverse RL- Hindsight Inference for Policy Improvement</a>
-    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
-    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+  quiz: >
+    <strong>Quiz 2 (online)</strong>
   logistics: 
-     <span class="event">HW4 out 11/07</span> <br>
 
 
 - date: M 11/09
