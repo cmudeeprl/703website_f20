@@ -27,7 +27,7 @@ title: Schedule
     {% if lecture.recitation != blank %} 
     {% assign recitation_count = recitation_count | plus: 1 %}
     {%endif%}
-    {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' %}
+    {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Buffer' %}
         {% assign skip_classes = skip_classes | plus: 1 %}
         <td colspan="4" align="center">{{ lecture.title }}<p align="right">{{ lecture.logistics }}</p></td>
     {% elsif lecture.quiz != blank %}

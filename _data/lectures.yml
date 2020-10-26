@@ -499,15 +499,30 @@
 - date: M 11/23
   lecturer:
   title: >
-    <strong>Hierarchical RL</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture12.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef21a5e2-1b82-4f97-9f83-ab8400e24d5d
-  notes:
+    <strong>Sim2Real transfer</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
+  notes: 
   readings:
-    - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning - Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
-    - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
-  logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Hwanbo et al. <a href="https://arxiv.org/pdf/1901.08652.pdf" target="_blank">Learning Agile and Dynamic Motor Skills for Legged Robots</a>
+    - Hwanbo et al. <a href="https://arxiv.org/pdf/1611.04201.pdf" target="_blank">CAD2RL&#58; Real Single-Image Flight without a Single Real Image</a>
+    # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
+  logistics:
     <span class="event">HW5 out 11/25</span>
+
+  # lecturer:
+  # title: >
+  #   <strong>Hierarchical RL</strong>
+  # # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture12.pdf
+  # # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef21a5e2-1b82-4f97-9f83-ab8400e24d5d
+  # notes:
+  # readings:
+  #   - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning - Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
+  #   - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
+  # logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
+    
 
 
 - date: W 11/25
@@ -525,20 +540,6 @@
 - date: M 11/30
   lecturer:
   title: >
-    <strong>Learning and Planning: Temporal abstraction in model based control</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
-  notes:
-  readings:
-    - Agarwal et al. <a href="https://www.cs.cmu.edu/~katef/papers/modellookahead.pdf" target="_blank">Model Learning for Look-ahead Exploration in Continuous Control </a>
-    - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank"> Search on the Replay Buffer- Bridging Planning and Reinforcement Learning </a>
-    - Co-Reyes et al. <a href="https://arxiv.org/pdf/1806.02813.pdf" target="_blank"> Self-Consistent Trajectory Autoencoder - Hierarchical Reinforcement Learning with Trajectory Embeddings</a>
-  logistics: 
-
-
-- date: W 12/02
-  lecturer:
-  title: >
     <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
   slides:
   slides2: 
@@ -547,10 +548,27 @@
   readings:
     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
     - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+    - Duan et al. <a href="https://arxiv.org/pdf/1707.03141.pdf" target="_blank">A Simple Neural Attentive Meta-Learner</a>
     - Finn et al. <a href="https://arxiv.org/abs/1703.03400" target="_blank">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
     - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics: 
+
+
+- date: W 12/02
+  lecturer:
+  title: >
+    <strong>RL and generalisation&#58; A closer look to state representations for generalization in  model free and model based RL</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
+  notes:
+  readings:
+    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+    - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+    - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+    - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+    - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
+  logistics:   
 
 
 - date: F 12/04
@@ -568,28 +586,22 @@
 - date: M 12/07
   lecturer:
   title: >
-    <strong>Sim2Real transfer</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
-  notes: 
+    <strong>Buffer</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture27.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
+  notes:
   readings:
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Hwanbo et al. <a href="https://arxiv.org/pdf/1901.08652.pdf" target="_blank">Learning Agile and Dynamic Motor Skills for Legged Robots</a>
-    # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
   logistics:
 
 
 - date: W 12/09
   lecturer:
   title: >
-    <strong>Visual Imitation learning</strong>
+    <strong>Buffer</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture27.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46a3146a-3ea6-44ef-8d17-abaf0131e8aa
   notes:
   readings:
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
-    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
   logistics:
 
 
