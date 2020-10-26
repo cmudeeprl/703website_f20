@@ -320,7 +320,7 @@
   notes:
   readings:
     - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
-    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - <span style="color:green">Schulman et al. <a style="color:green" href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a></span>
     # - <span style="color:green">Fujimoto et al. <a style="color:green" href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a></span>
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
   logistics:
@@ -340,7 +340,7 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
   notes:
   readings:
-    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - <span style="color:green">Schulman et al. <a style="color:green" href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a></span>
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     - <span style="color:green">Fujimoto et al. <a style="color:green" href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a></span>
   logistics:
