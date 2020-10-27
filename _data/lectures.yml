@@ -338,7 +338,7 @@
     <strong>Natural PG (cont.) , off policy RL</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture16_NaturalPolicyGradientsF20.pdf
   slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture16_offpolicyRL.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3735c17f-3577-4dcd-9add-ac60012946b6
   notes:
   readings:
     - <span style="color:green">Schulman et al. <a style="color:green" href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a></span>
