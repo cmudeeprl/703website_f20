@@ -408,7 +408,6 @@
     - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     - Sikchi et al. <a href="https://arxiv.org/pdf/2008.10066.pdf" target="_blank">Learning Off-Policy with Online Planning</a>
     - Buckman et al. <a href="https://arxiv.org/abs/1807.01675" target="_blank">Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion</a>
-    - Nagabandi et al. <a href="https://arxiv.org/abs/1909.11652" target="_blank">Deep Dynamics Models for Learning Dexterous Manipulation</a>
     - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
     -  Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
     -  Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
