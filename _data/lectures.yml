@@ -352,7 +352,7 @@
   lecturer:
   title: >
     <strong>SAC, TD3, soft q learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture18.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture17_MaximumEntropyRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
   notes:
   readings:
