@@ -414,6 +414,7 @@
     -  Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
     - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
   logistics:
+    <span class="event">HW4 out 11/06</span>
 
 
 - date: M 11/09
@@ -512,7 +513,8 @@
     - Hwanbo et al. <a href="https://arxiv.org/pdf/1611.04201.pdf" target="_blank">CAD2RL&#58; Real Single-Image Flight without a Single Real Image</a>
     # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
   logistics:
-    <span class="event">HW5 out 11/25</span>
+    <span class="event">HW5 out 11/23</span>
+    <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
 
   # lecturer:
   # title: >
@@ -594,6 +596,7 @@
   notes:
   readings:
   logistics:
+    <span class="deadline">HW5 due 12/07 11:59pm</span> <br>
 
 
 - date: W 12/09
@@ -617,7 +620,6 @@
   notes:
   readings:
   logistics: 
-    <span class="deadline">HW5 due 12/11 11:59pm</span> <br>
 
 
 - date: TBD
