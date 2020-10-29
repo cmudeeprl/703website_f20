@@ -352,8 +352,9 @@
   lecturer:
   title: >
     <strong>SAC, TD3, soft q learning</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture17_MaximumEntropyRL.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture16_offpolicyRL.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture17_MaximumEntropyRL.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=caf088d5-87be-4ee9-a535-ac6201277749
   notes:
   readings:
     - <span style="color:green">Haarnoja et al. <a style="color:green" href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a></span>
