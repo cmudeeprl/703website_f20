@@ -357,8 +357,8 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=caf088d5-87be-4ee9-a535-ac6201277749
   notes:
   readings:
-    - <span style="color:green">Haarnoja et al. <a style="color:green" href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a></span>
-    - <span style="color:green">Haarnoja et al. <a style="color:green" href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a></span>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
     - <span style="color:green">Fujimoto et al. <a style="color:green" href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a></span>
   logistics:
 
