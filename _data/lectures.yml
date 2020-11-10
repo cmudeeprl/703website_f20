@@ -417,7 +417,7 @@
   lecturer:
   title: >
     <strong>Model-based RL (cont.)</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/lecture_19.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture20_modelbasedRL_F20_3.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
   notes:
   readings:
