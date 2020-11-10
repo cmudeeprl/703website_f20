@@ -546,18 +546,15 @@
 - date: M 11/30
   lecturer:
   title: >
-    <strong>Meta-Learning, fast learning within few interactions, learning to learn fast</strong>
+    <strong>Hierarchical RL, goal sampling</strong>
   slides:
   slides2: 
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes:
   readings:
-    - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
-    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
-    - Duan et al. <a href="https://arxiv.org/pdf/1707.03141.pdf" target="_blank">A Simple Neural Attentive Meta-Learner</a>
-    - Finn et al. <a href="https://arxiv.org/abs/1703.03400" target="_blank">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
-    - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
-    - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
+    - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning<span>:</span> Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
+    - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
+    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics: 
 
 
