@@ -479,7 +479,7 @@
 - date: W 11/18
   lecturer:
   title: >
-    <strong>Learning from RL+demonstrations</strong>
+    <strong>Learning from RL and demonstrations</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture12.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef21a5e2-1b82-4f97-9f83-ab8400e24d5d
   notes:
@@ -487,7 +487,6 @@
     - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
-    - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
   logistics: 
 
 
