@@ -561,17 +561,31 @@
 - date: W 12/02
   lecturer:
   title: >
-    <strong>RL and generalisation&#58; A closer look to state representations for generalization in  model free and model based RL</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
-  notes:
+    <strong>Sim2Real transfer</strong>
+  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
+  notes: 
   readings:
-    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-    - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
-    - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
-    - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
-    - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-  logistics:   
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Hwanbo et al. <a href="https://arxiv.org/pdf/1901.08652.pdf" target="_blank">Learning Agile and Dynamic Motor Skills for Legged Robots</a>
+    - Hwanbo et al. <a href="https://arxiv.org/pdf/1611.04201.pdf" target="_blank">CAD2RL&#58; Real Single-Image Flight without a Single Real Image</a>
+    # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
+  logistics:
+  
+  # lecturer:
+  # title: >
+  #   <strong>RL and generalisation&#58; A closer look to state representations for generalization in  model free and model based RL</strong>
+  # # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
+  # # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
+  # notes:
+  # readings:
+  #   - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+  #   - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+  #   - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+  #   - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+  #   - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
+  # logistics:   
 
 
 - date: F 12/04
