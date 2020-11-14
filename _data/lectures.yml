@@ -436,7 +436,7 @@
   title: >
     <strong>Curiosity driven exploration</strong>, guest lecture, Deepak Pathak
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture18.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7da5add8-9f73-431c-bba0-ab98011f981a
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77adb3fb-2182-4f68-996b-ac70017cee3d
   notes:
   readings:
     - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
@@ -450,9 +450,9 @@
   lecturer: 
   title:
   recitation: >
-    <strong>Graph Neural Nets, model learning</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
+    <strong>HW4</strong>
+  # slides: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5781e62-490d-4827-9a03-ac7201347b52
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5781e62-490d-4827-9a03-ac7201347b52
   notes:
   readings:
   logistics: 
