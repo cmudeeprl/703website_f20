@@ -461,6 +461,12 @@
 - date: M 11/16
   lecturer: 
   title: >
+    <strong> Cancelled - No classes </strong>
+    
+
+- date: W 11/18
+  lecturer:
+  title: >
     <strong>Model-based RL (cont.), imitating planners</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture19.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
@@ -474,11 +480,11 @@
     # - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
     # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics:
-    
 
-- date: W 11/18
-  lecturer:
-  title: >
+
+- date: F 11/20
+  lecturer: 
+  title:
     <strong>Learning from RL and demonstrations</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture12.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef21a5e2-1b82-4f97-9f83-ab8400e24d5d
@@ -487,18 +493,6 @@
     - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
-  logistics: 
-
-
-- date: F 11/20
-  lecturer: 
-  title:
-  recitation: >
-    <strong>REC </strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_rec_hw3.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
-  notes:
-  readings:
   logistics: 
 
 
