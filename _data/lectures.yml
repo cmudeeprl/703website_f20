@@ -418,7 +418,7 @@
   title: >
     <strong>Model-based RL (cont.)</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture20_modelbasedRL_F20_3.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=828d3889-a50f-4c49-b9be-ac6e0144cb45
   notes:
   readings:
     -  Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
