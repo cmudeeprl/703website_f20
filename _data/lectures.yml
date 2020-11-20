@@ -459,12 +459,6 @@
     
 
 - date: M 11/16
-  lecturer: 
-  title: >
-    <strong> Cancelled - No classes </strong>
-    
-
-- date: W 11/18
   lecturer:
   title: >
     <strong>Model-based RL (cont.), imitating planners</strong>
@@ -481,9 +475,9 @@
     # - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
     # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics:
+    
 
-
-- date: F 11/20
+- date: W 11/18
   lecturer: 
   title:
     <strong>Learning from RL and demonstrations</strong>
@@ -496,6 +490,18 @@
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
   logistics: 
 
+
+- date: F 11/20
+  lecturer: 
+  title:
+  recitation: >
+    <strong>HW5</strong>
+  # slides: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5781e62-490d-4827-9a03-ac7201347b52
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5781e62-490d-4827-9a03-ac7201347b52
+  notes:
+  readings:
+  logistics: 
+  
 
 - date: M 11/23
   lecturer:
