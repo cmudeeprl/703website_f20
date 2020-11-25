@@ -508,7 +508,7 @@
   title: >
     <strong>Structured exploration via state mapping</strong>
   # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture25.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77ffb580-a960-4806-846d-abaf0131e8e6
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99bfda7c-951a-4f80-85c1-ac7c0148fe19
   notes: 
   readings:
     - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
