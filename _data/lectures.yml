@@ -462,8 +462,7 @@
   lecturer:
   title: >
     <strong>Model-based RL (cont.), imitating planners</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture22_iLQR.pdf
-  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture22_modelbasedRL_F20_4.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture22_modelbasedRL_F20_4.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
   notes:
   readings:
