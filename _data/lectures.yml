@@ -545,15 +545,15 @@
 - date: M 11/30
   lecturer:
   title: >
-    <strong>Hierarchical RL, goal sampling</strong>
+    <strong>Learning from RL and demonstrations</strong>
   slides:
   slides2: 
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes:
   readings:
-    - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning<span>:</span> Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
-    - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
-    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
   logistics: 
 
 
