@@ -463,7 +463,7 @@
   title: >
     <strong>Model-based RL (cont.), imitating planners</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture22_modelbasedRL_F20_4.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a4db30e-c7b3-43d6-8400-ab9a016dd0c4
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b133213-6efc-4d37-b9e2-ac8100991da1
   notes:
   readings:
     - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
@@ -480,7 +480,7 @@
   title:
     <strong>Intelligent Exploration</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture23_deepexplorationF20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef21a5e2-1b82-4f97-9f83-ab8400e24d5d
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a12cd61e-ed6c-4a12-910c-ac810099aacf
   notes:
   readings:
     - <span style="color:green">Savinov et al. <a style="color:green" href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a></span>
