@@ -546,8 +546,7 @@
   lecturer:
   title: >
     <strong>Learning from RL and demonstrations</strong>
-  slides:
-  slides2: 
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture25_RDDemovisualimitationF20.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
   notes:
   readings:
