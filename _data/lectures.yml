@@ -439,10 +439,10 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77adb3fb-2182-4f68-996b-ac70017cee3d
   notes:
   readings:
-    - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-    - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a>
-    - Sekar et al. <a href="https://arxiv.org/abs/2005.05960" target="_blank">Planning to Explore via Self-Supervised World Models</a>
+    - <span style="color:green">Pathak et al. <a style="color:green" href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a></span>
+    - <span style="color:green">Burda et al. <a style="color:green" href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a></span>
+    - <span style="color:green">Pathak et al. <a style="color:green" href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a></span>
+    - <span style="color:green">Sekar et al. <a style="color:green" href="https://arxiv.org/abs/2005.05960" target="_blank">Planning to Explore via Self-Supervised World Models</a></span>
   logistics:
 
 
