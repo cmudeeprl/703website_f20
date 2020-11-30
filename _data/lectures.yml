@@ -398,10 +398,10 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ae56777-fbfd-43a7-8fa6-ac69012fec16
   notes:
   readings:
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
-    - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
-    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - <span style="color:green">Silver et al. <a style="color:green" href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a></span>
+    - <span style="color:green">Schrittwieser et al. <a style="color:green" href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a></span>
+    - <span style="color:green">Oh et al. <a style="color:green" href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a></span>
+    - <span style="color:green">Kaiser et al. <a style="color:green" href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a></span>
   logistics: 
 
 
