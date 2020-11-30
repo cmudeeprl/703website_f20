@@ -421,10 +421,10 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=828d3889-a50f-4c49-b9be-ac6e0144cb45
   notes:
   readings:
-    -  Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    -  Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
-    -  Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
-    - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
+    -  <span style="color:green">Gonzalez et al. <a style="color:green" href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a></span>
+    -  <span style="color:green">Gonzalez et al. <a style="color:green" href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a></span>
+    -  <span style="color:green">Agrawal et al. <a style="color:green" href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a></span>
+    - <span style="color:green">Tutorial - <a style="color:green" href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a></span>
     # - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank">Search on the Replay Buffer- Bridging Planning and Reinforcement Learning</a>
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
