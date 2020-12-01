@@ -547,7 +547,7 @@
   title: >
     <strong>Learning from RL and demonstrations</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture25_RDDemovisualimitationF20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f26c0ec2-023c-4671-a452-ac83012f339f
   notes:
   readings:
     - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
