@@ -549,9 +549,9 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f26c0ec2-023c-4671-a452-ac83012f339f
   notes:
   readings:
-    - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
+    - <span style="color:green">Mandlekar et al. <a style="color:green" href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a></span>
+    - <span style="color:green">Salimans et al. <a style="color:green" href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a></span>
+    - <span style="color:green">Peng et al. <a style="color:green" href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a></span>
   logistics: 
 
 
