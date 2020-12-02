@@ -566,8 +566,8 @@
   readings:
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Hwanbo et al. <a href="https://arxiv.org/pdf/1901.08652.pdf" target="_blank">Learning Agile and Dynamic Motor Skills for Legged Robots</a>
-    - Hwanbo et al. <a href="https://arxiv.org/pdf/1611.04201.pdf" target="_blank">CAD2RL&#58; Real Single-Image Flight without a Single Real Image</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a> 
     # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
   logistics:
 
