@@ -587,9 +587,9 @@
   lecturer:
   title: >
     <strong>Meta-Learning, learning to learn</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture27_metalearningF20.pdf
   slides2: 
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff2821b7-569d-48e6-94cf-ab10011857b4
+  video:
   notes:
   readings:
     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
