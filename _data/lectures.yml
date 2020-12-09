@@ -589,7 +589,7 @@
     <strong>Meta-Learning, learning to learn</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture27_metalearningF20.pdf
   slides2: 
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0286a393-78b0-4575-aaea-ac8a0130b552
   notes:
   readings:
     - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
@@ -606,7 +606,7 @@
   lecturer:
   title: >
     <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
-  # slides: https://cmudeeprl.github.io/Spring202010403website/assets/lectures/s20_lecture24.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture28_curiosityDrivenExplorationF20.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
   notes:
   readings:
