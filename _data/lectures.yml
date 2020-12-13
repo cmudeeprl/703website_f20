@@ -607,7 +607,7 @@
   title: >
     <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture28_curiosityDrivenExplorationF20.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9e3a13e-510d-47b9-80d6-aba8015d49e1
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb15b066-bc9d-4615-a5eb-ac8d011d99f5
   notes:
   readings:
     - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
